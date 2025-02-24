@@ -2,17 +2,17 @@
 💻 **.NET Developer | Web Scraping Specialist**  
 📍 **Lahore, Pakistan** 
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="350"/>
-
-
 🔹 **Skilled in:** .NET Core, ASP.NET, C#, Web Scraping  
 🔹 **Tech Stack:** HTML, CSS, JavaScript, jQuery, SQL  
 🔹 **Passionate about:** Clean Code, API Development, Automation  
 
 📌 **Projects:**  
-- 🚀 Banqwatch (Banking System)  
-- 🔍 Web Scrapers (LinkedIn, Google Maps)  
-- 🏥 HMS (Hospital Management System)  
+- Banqwatch (Banking System)
+- HMS (Hospital Management System)
+- Registre RH
+- Permispop
+- Web Scrapers (LinkedIn, Google Maps, Instagram and Publically Available Data from Websites)  
+  
 
 
 ## Connect with me:  
