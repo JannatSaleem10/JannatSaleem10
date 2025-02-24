@@ -13,7 +13,5 @@
 - Permispop
 - Web Scrapers (LinkedIn, Google Maps, Instagram and Publically Available Data from Websites)  
   
-
-
-## Connect with me:  
+## 📫 Connect with me:  
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30">](https://www.instagram.com/jennifer.jbs10) [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30">](https://www.linkedin.com/in/jannat-jbs-897303220/)
